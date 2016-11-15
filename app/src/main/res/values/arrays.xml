@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image_ids">
+        <item>@drawable/img0</item>
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+    </array>
+    <array name="names">
+        <item>Moonu 0</item>
+        <item>Moonu 1</item>
+        <item>Moonu 2</item>
+        <item>Moonu 3</item>
+        <item>Moonu 4</item>
+        <item>Moonu 5</item>
+        <item>Moonu 6</item>
+        <item>Moonu 7</item>
+        <item>Moonu 8</item>
+        <item>Moonu 9</item>
+    </array>
+</resources>
